@@ -39,6 +39,7 @@ npm test
 ## Screenshots 📷<a name='screenshots'></a>
 
 ![alt text](./Assets/img/Screenshot1-NoteTaker.png)
+![alt text](./Assets/img/Screenshot4-NoteTaker.png)
 ![alt text](./Assets/img/Screenshot2-NoteTaker.png)
 ![alt text](./Assets/img/Screenshot3-NoteTaker.png)
 
