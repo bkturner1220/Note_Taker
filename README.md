@@ -13,6 +13,7 @@ Note Taker writes and saves notes to remeber life responsiblities.. It uses Expr
 - [Testing](#test)
 - [Screenshots](#screenshots)
 - [Demo Video](#demo)
+- [Heroku Pages Link](#heroku)
 - [Github Pages Link](#pages)
 - [Github Repo Link](#repo)
 - [Contact Details](#contact)
@@ -42,6 +43,10 @@ npm test
 ![alt text](./Assets/img/Screenshot4-NoteTaker.png)
 ![alt text](./Assets/img/Screenshot2-NoteTaker.png)
 ![alt text](./Assets/img/Screenshot3-NoteTaker.png)
+
+## Heroku Pages Link <a name='heroku'></a>
+
+<a href="https://nameless-gorge-87774.herokuapp.com/" target="_blank">https://nameless-gorge-87774.herokuapp.com/</a>
 
 ## Github Pages Link <a name='pages'></a>
 
